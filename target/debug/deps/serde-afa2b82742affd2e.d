@@ -1,0 +1,14 @@
+/home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/deps/serde-afa2b82742affd2e.d: /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/build/serde-252a9bbeccb60cd9/out/private.rs
+
+/home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/deps/libserde-afa2b82742affd2e.rlib: /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/build/serde-252a9bbeccb60cd9/out/private.rs
+
+/home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/deps/libserde-afa2b82742affd2e.rmeta: /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/build/serde-252a9bbeccb60cd9/out/private.rs
+
+/home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/dalager/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/build/serde-252a9bbeccb60cd9/out/private.rs:
+
+# env-dep:OUT_DIR=/home/dalager/.dossier/repos/c24694d7-1bca-4f62-beee-986831abb84d/target/debug/build/serde-252a9bbeccb60cd9/out
